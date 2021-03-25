@@ -1,0 +1,80 @@
+2021-03-25 16:00:30,736 DEBUG [TestNG-tests-1] RequestAddCookies:123 - CookieSpec selected: standard
+2021-03-25 16:00:30,747 DEBUG [TestNG-tests-1] RequestAuthCache:77 - Auth cache not set in the context
+2021-03-25 16:00:30,748 DEBUG [TestNG-tests-1] PoolingHttpClientConnectionManager:265 - Connection request: [route: {s}->https://chromedriver.storage.googleapis.com:443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2021-03-25 16:00:30,767 DEBUG [TestNG-tests-1] PoolingHttpClientConnectionManager:309 - Connection leased: [id: 0][route: {s}->https://chromedriver.storage.googleapis.com:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2021-03-25 16:00:30,770 DEBUG [TestNG-tests-1] MainClientExec:235 - Opening connection {s}->https://chromedriver.storage.googleapis.com:443
+2021-03-25 16:00:31,037 DEBUG [TestNG-tests-1] DefaultHttpClientConnectionOperator:139 - Connecting to chromedriver.storage.googleapis.com/172.217.4.80:443
+2021-03-25 16:00:31,037 DEBUG [TestNG-tests-1] SSLConnectionSocketFactory:337 - Connecting socket to chromedriver.storage.googleapis.com/172.217.4.80:443 with timeout 0
+2021-03-25 16:00:31,287 DEBUG [TestNG-tests-1] SSLConnectionSocketFactory:390 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+2021-03-25 16:00:31,287 DEBUG [TestNG-tests-1] SSLConnectionSocketFactory:391 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2021-03-25 16:00:31,287 DEBUG [TestNG-tests-1] SSLConnectionSocketFactory:395 - Starting handshake
+2021-03-25 16:00:31,812 DEBUG [TestNG-tests-1] SSLConnectionSocketFactory:425 - Secure session established
+2021-03-25 16:00:31,812 DEBUG [TestNG-tests-1] SSLConnectionSocketFactory:426 -  negotiated protocol: TLSv1.2
+2021-03-25 16:00:31,813 DEBUG [TestNG-tests-1] SSLConnectionSocketFactory:427 -  negotiated cipher suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+2021-03-25 16:00:31,813 DEBUG [TestNG-tests-1] SSLConnectionSocketFactory:435 -  peer principal: CN=*.storage.googleapis.com, O=Google LLC, L=Mountain View, ST=California, C=US
+2021-03-25 16:00:31,813 DEBUG [TestNG-tests-1] SSLConnectionSocketFactory:444 -  peer alternative names: [*.storage.googleapis.com, *.appspot.com.storage.googleapis.com, *.commondatastorage.googleapis.com, *.content-storage-download.googleapis.com, *.content-storage-p2.googleapis.com, *.content-storage-upload.googleapis.com, *.content-storage.googleapis.com, *.googleapis.com, *.storage-download.googleapis.com, *.storage-upload.googleapis.com, commondatastorage.googleapis.com, storage.googleapis.com, storage.mtls.googleapis.com]
+2021-03-25 16:00:31,813 DEBUG [TestNG-tests-1] SSLConnectionSocketFactory:448 -  issuer principal: CN=GTS CA 1O1, O=Google Trust Services, C=US
+2021-03-25 16:00:31,816 DEBUG [TestNG-tests-1] DefaultHttpClientConnectionOperator:146 - Connection established 10.116.190.146:58512<->172.217.4.80:443
+2021-03-25 16:00:31,816 DEBUG [TestNG-tests-1] DefaultManagedHttpClientConnection:88 - http-outgoing-0: set socket timeout to 30000
+2021-03-25 16:00:31,817 DEBUG [TestNG-tests-1] MainClientExec:256 - Executing request GET /LATEST_RELEASE HTTP/1.1
+2021-03-25 16:00:31,817 DEBUG [TestNG-tests-1] MainClientExec:261 - Target auth state: UNCHALLENGED
+2021-03-25 16:00:31,818 DEBUG [TestNG-tests-1] MainClientExec:267 - Proxy auth state: UNCHALLENGED
+2021-03-25 16:00:31,819 DEBUG [TestNG-tests-1] headers:133 - http-outgoing-0 >> GET /LATEST_RELEASE HTTP/1.1
+2021-03-25 16:00:31,819 DEBUG [TestNG-tests-1] headers:136 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.6
+2021-03-25 16:00:31,819 DEBUG [TestNG-tests-1] headers:136 - http-outgoing-0 >> Connection: keep-alive
+2021-03-25 16:00:31,819 DEBUG [TestNG-tests-1] headers:136 - http-outgoing-0 >> Host: chromedriver.storage.googleapis.com
+2021-03-25 16:00:31,820 DEBUG [TestNG-tests-1] headers:136 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2021-03-25 16:00:31,820 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 >> "GET /LATEST_RELEASE HTTP/1.1[\r][\n]"
+2021-03-25 16:00:31,820 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.6[\r][\n]"
+2021-03-25 16:00:31,820 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 >> "Connection: keep-alive[\r][\n]"
+2021-03-25 16:00:31,820 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 >> "Host: chromedriver.storage.googleapis.com[\r][\n]"
+2021-03-25 16:00:31,820 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2021-03-25 16:00:31,820 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 >> "[\r][\n]"
+2021-03-25 16:00:32,069 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2021-03-25 16:00:32,070 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "X-GUploader-UploadID: ABg5-UxNvffn6s4GdqmwWci2pxuNhzu1buZrcFIHbaAwAI4ZNl8X6nQsJIW6E4remxrNt5PLvYMqLWo1FjtpOzvYIg[\r][\n]"
+2021-03-25 16:00:32,070 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "Expires: Thu, 25 Mar 2021 10:48:30 GMT[\r][\n]"
+2021-03-25 16:00:32,070 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "Date: Thu, 25 Mar 2021 09:48:30 GMT[\r][\n]"
+2021-03-25 16:00:32,071 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "Last-Modified: Wed, 03 Mar 2021 19:54:18 GMT[\r][\n]"
+2021-03-25 16:00:32,071 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "ETag: "d5fc77bc5fc3591f5d909c7320db90b4"[\r][\n]"
+2021-03-25 16:00:32,071 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "x-goog-generation: 1614801258249131[\r][\n]"
+2021-03-25 16:00:32,071 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "x-goog-metageneration: 1[\r][\n]"
+2021-03-25 16:00:32,071 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "x-goog-stored-content-encoding: identity[\r][\n]"
+2021-03-25 16:00:32,072 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "x-goog-stored-content-length: 12[\r][\n]"
+2021-03-25 16:00:32,072 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "Content-Type: text/plain[\r][\n]"
+2021-03-25 16:00:32,072 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "Content-Language: en[\r][\n]"
+2021-03-25 16:00:32,072 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "x-goog-hash: crc32c=paF+5Q==[\r][\n]"
+2021-03-25 16:00:32,073 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "x-goog-hash: md5=1fx3vF/DWR9dkJxzINuQtA==[\r][\n]"
+2021-03-25 16:00:32,073 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "x-goog-storage-class: STANDARD[\r][\n]"
+2021-03-25 16:00:32,073 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "Accept-Ranges: bytes[\r][\n]"
+2021-03-25 16:00:32,079 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "Content-Length: 12[\r][\n]"
+2021-03-25 16:00:32,079 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "Server: UploadServer[\r][\n]"
+2021-03-25 16:00:32,080 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "Age: 2522[\r][\n]"
+2021-03-25 16:00:32,080 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "Cache-Control: public, max-age=3600[\r][\n]"
+2021-03-25 16:00:32,080 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"[\r][\n]"
+2021-03-25 16:00:32,080 DEBUG [TestNG-tests-1] wire:73 - http-outgoing-0 << "[\r][\n]"
+2021-03-25 16:00:32,080 DEBUG [TestNG-tests-1] wire:87 - http-outgoing-0 << "89.0.4389.23"
+2021-03-25 16:00:32,084 DEBUG [TestNG-tests-1] headers:122 - http-outgoing-0 << HTTP/1.1 200 OK
+2021-03-25 16:00:32,084 DEBUG [TestNG-tests-1] headers:125 - http-outgoing-0 << X-GUploader-UploadID: ABg5-UxNvffn6s4GdqmwWci2pxuNhzu1buZrcFIHbaAwAI4ZNl8X6nQsJIW6E4remxrNt5PLvYMqLWo1FjtpOzvYIg
+2021-03-25 16:00:32,084 DEBUG [TestNG-tests-1] headers:125 - http-outgoing-0 << Expires: Thu, 25 Mar 2021 10:48:30 GMT
+2021-03-25 16:00:32,084 DEBUG [TestNG-tests-1] headers:125 - http-outgoing-0 << Date: Thu, 25 Mar 2021 09:48:30 GMT
+2021-03-25 16:00:32,084 DEBUG [TestNG-tests-1] headers:125 - http-outgoing-0 << Last-Modified: Wed, 03 Mar 2021 19:54:18 GMT
+2021-03-25 16:00:32,084 DEBUG [TestNG-tests-1] headers:125 - http-outgoing-0 << ETag: "d5fc77bc5fc3591f5d909c7320db90b4"
+2021-03-25 16:00:32,084 DEBUG [TestNG-tests-1] headers:125 - http-outgoing-0 << x-goog-generation: 1614801258249131
+2021-03-25 16:00:32,084 DEBUG [TestNG-tests-1] headers:125 - http-outgoing-0 << x-goog-metageneration: 1
+2021-03-25 16:00:32,084 DEBUG [TestNG-tests-1] headers:125 - http-outgoing-0 << x-goog-stored-content-encoding: identity
+2021-03-25 16:00:32,084 DEBUG [TestNG-tests-1] headers:125 - http-outgoing-0 << x-goog-stored-content-length: 12
+2021-03-25 16:00:32,084 DEBUG [TestNG-tests-1] headers:125 - http-outgoing-0 << Content-Type: text/plain
+2021-03-25 16:00:32,084 DEBUG [TestNG-tests-1] headers:125 - http-outgoing-0 << Content-Language: en
+2021-03-25 16:00:32,084 DEBUG [TestNG-tests-1] headers:125 - http-outgoing-0 << x-goog-hash: crc32c=paF+5Q==
+2021-03-25 16:00:32,085 DEBUG [TestNG-tests-1] headers:125 - http-outgoing-0 << x-goog-hash: md5=1fx3vF/DWR9dkJxzINuQtA==
+2021-03-25 16:00:32,085 DEBUG [TestNG-tests-1] headers:125 - http-outgoing-0 << x-goog-storage-class: STANDARD
+2021-03-25 16:00:32,085 DEBUG [TestNG-tests-1] headers:125 - http-outgoing-0 << Accept-Ranges: bytes
+2021-03-25 16:00:32,085 DEBUG [TestNG-tests-1] headers:125 - http-outgoing-0 << Content-Length: 12
+2021-03-25 16:00:32,085 DEBUG [TestNG-tests-1] headers:125 - http-outgoing-0 << Server: UploadServer
+2021-03-25 16:00:32,085 DEBUG [TestNG-tests-1] headers:125 - http-outgoing-0 << Age: 2522
+2021-03-25 16:00:32,085 DEBUG [TestNG-tests-1] headers:125 - http-outgoing-0 << Cache-Control: public, max-age=3600
+2021-03-25 16:00:32,085 DEBUG [TestNG-tests-1] headers:125 - http-outgoing-0 << Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+2021-03-25 16:00:32,090 DEBUG [TestNG-tests-1] MainClientExec:285 - Connection can be kept alive indefinitely
+2021-03-25 16:00:32,100 DEBUG [TestNG-tests-1] PoolingHttpClientConnectionManager:341 - Connection [id: 0][route: {s}->https://chromedriver.storage.googleapis.com:443] can be kept alive indefinitely
+2021-03-25 16:00:32,100 DEBUG [TestNG-tests-1] DefaultManagedHttpClientConnection:88 - http-outgoing-0: set socket timeout to 0
+2021-03-25 16:00:32,101 DEBUG [TestNG-tests-1] PoolingHttpClientConnectionManager:348 - Connection released: [id: 0][route: {s}->https://chromedriver.storage.googleapis.com:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]

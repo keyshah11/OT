@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestSuite" thread-count="5" parallel="tests">
+
+	<groups>
+		<run>
+			<include name="always" />
+			<include name="smoke" />
+			<include name="regression" />
+		</run>
+	</groups>
+
+	<test thread-count="5" name="Chrome - ot Automation Testing Report">
+
+		<parameter name="browser" value="chrome" />
+
+		<classes>
+			<class name="com.ot.testcases.TC_02_OT_LoginPage" />
+
+		</classes>
+	</test>
+
+<!-- 	<test thread-count="5" name="Firefox - ot Automation Testing Report1"> -->
+
+
+<!-- 		<parameter name="browser" value="firefox" /> -->
+
+<!-- 		<classes> -->
+<!-- 			<class name="com.ot.testcases.TC_01_ot_HomePage_TC" /> -->
+<!-- 		</classes> -->
+<!-- 	</test> -->
+
+	<!-- Test -->
+
+	<listeners>
+		<listener
+			class-name="com.ot.testcases.AnnotationTransformer" />
+		<listener
+			class-name="com.ot.customreporting.CustomTestNGReporter" />
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener
+			class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+</suite> <!-- Suite -->

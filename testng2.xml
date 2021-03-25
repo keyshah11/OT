@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="TestSuite" thread-count="2" parallel="tests">
+
+	<test name="ChromeTest">
+
+		<parameter name="browser" value="chrome" />
+
+		<classes>
+
+			<class name="com.nfm.testcases.TC_01_NFM_HomePage_TC" />
+
+			</class>
+
+		</classes>
+
+	</test>
+
+	<test name="FirefoxTest">
+
+		<parameter name="browser" value="firefox" />
+
+		<classes>
+
+			<class name="com.nfm.testcases.TC_01_NFM_HomePage_TC" />
+
+			</class>
+
+		</classes>
+
+	</test>
+
+</suite>

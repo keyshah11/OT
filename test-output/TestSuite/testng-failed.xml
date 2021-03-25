@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestSuite]" parallel="tests">
+  <listeners>
+    <listener class-name="com.ot.testcases.AnnotationTransformer"/>
+    <listener class-name="com.ot.customreporting.CustomTestNGReporter"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="Chrome - ot Automation Testing Report(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <groups>
+      <run>
+        <include name="always"/>
+        <include name="smoke"/>
+        <include name="regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.ot.testcases.TC_02_OT_LoginPage">
+        <methods>
+          <include name="Browser_Close"/>
+          <include name="createDriver"/>
+          <include name="TC_Verify_Login_With_Valid_Email_Valid_Password_Untied_Account"/>
+        </methods>
+      </class> <!-- com.ot.testcases.TC_02_OT_LoginPage -->
+    </classes>
+  </test> <!-- Chrome - ot Automation Testing Report(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->

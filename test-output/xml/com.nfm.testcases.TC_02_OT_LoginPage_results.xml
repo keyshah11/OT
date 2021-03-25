@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Chrome - NFM Automation Testing Report"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="100.551">
+  <properties />
+  
+  
+            <testcase name="TC_Verify_Login_With_Valid_Email_Valid_Password_Untied_Account" time="100.539" classname="com.nfm.testcases.TC_02_OT_LoginPage" />
+                <testcase name="intialization" time="0.012" classname="com.nfm.testcases.TC_02_OT_LoginPage" />
+      
+</testsuite>

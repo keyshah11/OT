@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Chrome - NFM Automation Testing Report"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.227">
+  <properties />
+  
+  
+            <testcase name="TC_Verify_HomePage_Title" time="0.227" classname="com.nfm.testcases.TC_01_NFM_HomePage_TC" />
+      
+</testsuite>

@@ -1,0 +1,521 @@
+[RemoteTestNG] detected TestNG version 6.11.0
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ChromeDriver was started successfully.
+Feb 22, 2021 4:21:41 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+ELSE Failed : Home Page Title Not Verified
+Actual Page Title is Nebraska Furniture Mart - Great Deals All the Time Online | Salesforce Commerce Cloud | staging-173
+Expected Page Title is 1Nebraska Furniture Mart - Great Deals All the Time Online | Salesforce Commerce Cloud | staging-
+
++++++++++++++++++++++++++++++++++End Test Case ----TC_01_NFM_HomePage_TC++++++++++++++++++++++++++++++++++++
+[RemoteTestNG] detected TestNG version 6.11.0
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ChromeDriver was started successfully.
+Feb 22, 2021 4:44:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+ELSE Failed : Home Page Title Not Verified
+Actual Page Title is Nebraska Furniture Mart - Great Deals All the Time Online | Salesforce Commerce Cloud | staging-173
+Expected Page Title is 1Nebraska Furniture Mart - Great Deals All the Time Online | Salesforce Commerce Cloud | staging-
+
++++++++++++++++++++++++++++++++++End Test Case ----TC_01_NFM_HomePage_TC++++++++++++++++++++++++++++++++++++
+[RemoteTestNG] detected TestNG version 6.11.0
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ChromeDriver was started successfully.
+Feb 22, 2021 4:51:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+ELSE Failed : Home Page Title Not Verified
+Actual Page Title is Nebraska Furniture Mart - Great Deals All the Time Online | Salesforce Commerce Cloud | staging-173
+Expected Page Title is 1Nebraska Furniture Mart - Great Deals All the Time Online | Salesforce Commerce Cloud | staging-
+
++++++++++++++++++++++++++++++++++End Test Case ----TC_01_NFM_HomePage_TC++++++++++++++++++++++++++++++++++++
+[RemoteTestNG] detected TestNG version 6.11.0
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ChromeDriver was started successfully.
+Feb 22, 2021 5:26:07 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+ELSE Failed : Home Page Title Not Verified
+Actual Page Title is Nebraska Furniture Mart - Great Deals All the Time Online | Salesforce Commerce Cloud | staging-173
+Expected Page Title is 1Nebraska Furniture Mart - Great Deals All the Time Online | Salesforce Commerce Cloud | staging-
+
++++++++++++++++++++++++++++++++++End Test Case ----TC_01_NFM_HomePage_TC++++++++++++++++++++++++++++++++++++
+[RemoteTestNG] detected TestNG version 6.11.0
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ChromeDriver was started successfully.
+Feb 22, 2021 5:27:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+ELSE Failed : Home Page Title Not Verified
+Actual Page Title is Nebraska Furniture Mart - Great Deals All the Time Online | Salesforce Commerce Cloud | staging-173
+Expected Page Title is 1Nebraska Furniture Mart - Great Deals All the Time Online | Salesforce Commerce Cloud | staging-
+
++++++++++++++++++++++++++++++++++End Test Case ----TC_01_NFM_HomePage_TC++++++++++++++++++++++++++++++++++++
+[RemoteTestNG] detected TestNG version 6.11.0
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ChromeDriver was started successfully.
+Feb 22, 2021 5:31:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+ELSE Failed : Home Page Title Not Verified
+Actual Page Title is Nebraska Furniture Mart - Great Deals All the Time Online | Salesforce Commerce Cloud | staging-173
+Expected Page Title is 1Nebraska Furniture Mart - Great Deals All the Time Online | Salesforce Commerce Cloud | staging-
+
++++++++++++++++++++++++++++++++++End Test Case ----TC_01_NFM_HomePage_TC++++++++++++++++++++++++++++++++++++
+[RemoteTestNG] detected TestNG version 6.11.0
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ChromeDriver was started successfully.
+Feb 22, 2021 5:33:14 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+class org.openqa.selenium.remote.RemoteWebElement
+Test1
+
++++++++++++++++++++++++++++++++++End Test Case ----TC_01_NFM_HomePage_TC++++++++++++++++++++++++++++++++++++
+[RemoteTestNG] detected TestNG version 6.11.0
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ChromeDriver was started successfully.
+Feb 22, 2021 5:37:07 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+rgba(76, 76, 76, 1)
+Test1
+
++++++++++++++++++++++++++++++++++End Test Case ----TC_01_NFM_HomePage_TC++++++++++++++++++++++++++++++++++++
+[RemoteTestNG] detected TestNG version 6.11.0
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ChromeDriver was started successfully.
+Feb 22, 2021 5:39:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+rgba(255, 255, 255, 1)
+rgba(255, 255, 255, 1)
+Test1
+
++++++++++++++++++++++++++++++++++End Test Case ----TC_01_NFM_HomePage_TC++++++++++++++++++++++++++++++++++++
+[RemoteTestNG] detected TestNG version 6.11.0
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ChromeDriver was started successfully.
+Feb 22, 2021 5:40:16 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+rgba(76, 76, 76, 1)
+rgba(76, 76, 76, 1)
+Test1
+
++++++++++++++++++++++++++++++++++End Test Case ----TC_01_NFM_HomePage_TC++++++++++++++++++++++++++++++++++++
+[RemoteTestNG] detected TestNG version 6.11.0
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ChromeDriver was started successfully.
+Feb 22, 2021 5:45:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+rgba(76, 76, 76, 1)
+rgba(76, 76, 76, 1)
+Test1
+
++++++++++++++++++++++++++++++++++End Test Case ----TC_01_NFM_HomePage_TC++++++++++++++++++++++++++++++++++++
+[RemoteTestNG] detected TestNG version 6.11.0
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ChromeDriver was started successfully.
+Feb 22, 2021 5:50:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+rgba(0, 0, 0, 0)
+rgba(0, 0, 0, 0)
+Test1
+
++++++++++++++++++++++++++++++++++End Test Case ----TC_01_NFM_HomePage_TC++++++++++++++++++++++++++++++++++++
+[RemoteTestNG] detected TestNG version 6.11.0
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ChromeDriver was started successfully.
+Feb 22, 2021 5:51:31 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+rgba(0, 0, 0, 0)
+rgba(0, 0, 0, 0)
+Test1
+
++++++++++++++++++++++++++++++++++End Test Case ----TC_01_NFM_HomePage_TC++++++++++++++++++++++++++++++++++++
+[RemoteTestNG] detected TestNG version 6.11.0
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ChromeDriver was started successfully.
+Feb 22, 2021 6:01:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+rgba(255, 255, 255, 1)
+rgba(255, 255, 255, 1)
+Test1
+
++++++++++++++++++++++++++++++++++End Test Case ----TC_01_NFM_HomePage_TC++++++++++++++++++++++++++++++++++++
+[RemoteTestNG] detected TestNG version 6.11.0
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ChromeDriver was started successfully.
+Feb 25, 2021 3:47:41 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+rgba(76, 76, 76, 1)
+rgba(76, 76, 76, 1)
+Test1
+
++++++++++++++++++++++++++++++++++End Test Case ----TC_01_NFM_HomePage_TC++++++++++++++++++++++++++++++++++++
+[RemoteTestNG] detected TestNG version 6.11.0
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ChromeDriver was started successfully.
+Feb 25, 2021 3:56:09 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+rgba(76, 76, 76, 1)
+rgba(76, 76, 76, 1)
+ELSE Failed : Home Page Title Not Verified
+Actual Page Title is Nebraska Furniture Mart - Great Deals All the Time Online | Salesforce Commerce Cloud | staging-177
+Expected Page Title is 1Nebraska Furniture Mart - Great Deals All the Time Online | Salesforce Commerce Cloud | staging-
+
++++++++++++++++++++++++++++++++++End Test Case ----TC_01_NFM_HomePage_TC++++++++++++++++++++++++++++++++++++
+[RemoteTestNG] detected TestNG version 6.11.0
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ChromeDriver was started successfully.
+Feb 25, 2021 3:58:27 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+rgba(76, 76, 76, 1)
+rgba(76, 76, 76, 1)
+PASSED : Home Page Title Verified
+Test1
+
++++++++++++++++++++++++++++++++++End Test Case ----TC_01_NFM_HomePage_TC++++++++++++++++++++++++++++++++++++
+[RemoteTestNG] detected TestNG version 6.11.0
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ChromeDriver was started successfully.
+Mar 03, 2021 12:13:29 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+PASSED : Home Page Title Verified
+
++++++++++++++++++++++++++++++++++End Test Case ----TC_01_NFM_HomePage_TC++++++++++++++++++++++++++++++++++++
+[RemoteTestNG] detected TestNG version 6.11.0
+FAILED CONFIGURATION: @BeforeClass createDriver
+org.testng.TestNGException: 
+Parameter 'browser' is required by BeforeClass on method createDriver but has not been marked @Optional or defined
+in C:\Users\win6\AppData\Local\Temp\testng-eclipse-1548477102\testng-customsuite.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:199)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:443)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:118)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:206)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:166)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+
+SKIPPED CONFIGURATION: @AfterClass Browser_Close
+SKIPPED: TC_Verify_HomePage_Title
+org.testng.TestNGException: 
+Parameter 'browser' is required by BeforeClass on method createDriver but has not been marked @Optional or defined
+in C:\Users\win6\AppData\Local\Temp\testng-eclipse-1548477102\testng-customsuite.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:199)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:443)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:118)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:206)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:166)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 1
+    Configuration Failures: 1, Skips: 1
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Failures: 0, Skips: 1
+Configuration Failures: 1, Skips: 1
+===============================================
+
+[RemoteTestNG] detected TestNG version 6.11.0
+FAILED CONFIGURATION: @BeforeClass createDriver
+org.testng.TestNGException: 
+Parameter 'browser' is required by BeforeClass on method createDriver but has not been marked @Optional or defined
+in C:\Users\win6\AppData\Local\Temp\testng-eclipse-2133005023\testng-customsuite.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:199)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:443)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:118)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:206)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:166)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+
+SKIPPED CONFIGURATION: @AfterClass Browser_Close
+SKIPPED: intialization
+org.testng.TestNGException: 
+Parameter 'browser' is required by BeforeClass on method createDriver but has not been marked @Optional or defined
+in C:\Users\win6\AppData\Local\Temp\testng-eclipse-2133005023\testng-customsuite.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:199)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:443)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:118)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:206)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:166)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+
+SKIPPED: TC_Verify_HomePage_Title
+java.lang.Throwable: Method TC_01_NFM_HomePage_TC.TC_Verify_HomePage_Title()[pri:2, instance:com.nfm.testcases.TC_01_NFM_HomePage_TC@6c3f5566] depends on not successfully finished methods
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1084)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+
+SKIPPED: closebrowser
+org.testng.TestNGException: 
+Parameter 'browser' is required by BeforeClass on method createDriver but has not been marked @Optional or defined
+in C:\Users\win6\AppData\Local\Temp\testng-eclipse-2133005023\testng-customsuite.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:199)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:443)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:118)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:206)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:166)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+
+
+===============================================
+    Default test
+    Tests run: 3, Failures: 0, Skips: 3
+    Configuration Failures: 1, Skips: 1
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 3, Failures: 0, Skips: 3
+Configuration Failures: 1, Skips: 1
+===============================================
+
+[RemoteTestNG] detected TestNG version 6.11.0
+FAILED CONFIGURATION: @BeforeClass createDriver
+org.testng.TestNGException: 
+Parameter 'browser' is required by BeforeClass on method createDriver but has not been marked @Optional or defined
+in C:\Users\win6\AppData\Local\Temp\testng-eclipse-461179107\testng-customsuite.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:199)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:443)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:118)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:206)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:166)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+
+SKIPPED CONFIGURATION: @AfterClass Browser_Close
+SKIPPED: intialization
+org.testng.TestNGException: 
+Parameter 'browser' is required by BeforeClass on method createDriver but has not been marked @Optional or defined
+in C:\Users\win6\AppData\Local\Temp\testng-eclipse-461179107\testng-customsuite.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:199)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:443)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:118)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:206)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:166)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+
+SKIPPED: TC_Verify_HomePage_Title
+java.lang.Throwable: Method TC_01_NFM_HomePage_TC.TC_Verify_HomePage_Title()[pri:2, instance:com.nfm.testcases.TC_01_NFM_HomePage_TC@6c3f5566] depends on not successfully finished methods
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1084)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+
+SKIPPED: closebrowser
+org.testng.TestNGException: 
+Parameter 'browser' is required by BeforeClass on method createDriver but has not been marked @Optional or defined
+in C:\Users\win6\AppData\Local\Temp\testng-eclipse-461179107\testng-customsuite.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:199)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:443)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:118)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:206)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:166)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+
+
+===============================================
+    Default test
+    Tests run: 3, Failures: 0, Skips: 3
+    Configuration Failures: 1, Skips: 1
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 3, Failures: 0, Skips: 3
+Configuration Failures: 1, Skips: 1
+===============================================
+

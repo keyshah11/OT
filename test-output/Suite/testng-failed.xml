@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.nfm.testcases.AnnotationTransformer"/>
+    <listener class-name="com.nfm.customreporting.CustomTestNGReporter"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="NFM Automation Testing Report(failed)">
+    <groups>
+      <run>
+        <include name="smoke"/>
+        <include name="regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.nfm.testcases.TC_Group2">
+        <methods>
+          <include name="test4"/>
+        </methods>
+      </class> <!-- com.nfm.testcases.TC_Group2 -->
+    </classes>
+  </test> <!-- NFM Automation Testing Report(failed) -->
+</suite> <!-- Failed suite [Suite] -->

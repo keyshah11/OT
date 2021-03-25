@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.ot.testcases.TC_02_OT_LoginPage">
+        <methods>
+          <include name="Browser_Close"/>
+          <include name="createDriver"/>
+          <include name="TC_Verify_Login_With_Valid_Email_Valid_Password_Untied_Account"/>
+        </methods>
+      </class> <!-- com.ot.testcases.TC_02_OT_LoginPage -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

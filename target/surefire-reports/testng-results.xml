@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite" duration-ms="22319" started-at="2021-03-25T10:30:30Z" finished-at="2021-03-25T10:30:52Z">
+    <groups>
+      <group name="smoke">
+        <method signature="TC_02_OT_LoginPage.TC_Verify_Login_With_Valid_Email_Valid_Password_Untied_Account()[pri:1, instance:com.ot.testcases.TC_02_OT_LoginPage@5e0e82ae]" name="TC_Verify_Login_With_Valid_Email_Valid_Password_Untied_Account" class="com.ot.testcases.TC_02_OT_LoginPage"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Chrome - ot Automation Testing Report" duration-ms="22319" started-at="2021-03-25T10:30:30Z" finished-at="2021-03-25T10:30:52Z">
+      <class name="com.ot.testcases.TC_02_OT_LoginPage">
+        <test-method status="PASS" signature="createDriver(java.lang.String)[pri:0, instance:com.ot.testcases.TC_02_OT_LoginPage@5e0e82ae]" name="createDriver" is-config="true" duration-ms="11622" started-at="2021-03-25T16:00:30Z" finished-at="2021-03-25T16:00:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method status="PASS" signature="TC_Verify_Login_With_Valid_Email_Valid_Password_Untied_Account()[pri:1, instance:com.ot.testcases.TC_02_OT_LoginPage@5e0e82ae]" name="TC_Verify_Login_With_Valid_Email_Valid_Password_Untied_Account" duration-ms="9817" started-at="2021-03-25T16:00:41Z" finished-at="2021-03-25T16:00:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Verify_Login_With_Valid_Email_Valid_Password_Untied_Account -->
+        <test-method status="PASS" signature="Browser_Close()[pri:0, instance:com.ot.testcases.TC_02_OT_LoginPage@5e0e82ae]" name="Browser_Close" is-config="true" duration-ms="843" started-at="2021-03-25T16:00:51Z" finished-at="2021-03-25T16:00:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_Close -->
+      </class> <!-- com.ot.testcases.TC_02_OT_LoginPage -->
+    </test> <!-- Chrome - ot Automation Testing Report -->
+  </suite> <!-- TestSuite -->
+</testng-results>
